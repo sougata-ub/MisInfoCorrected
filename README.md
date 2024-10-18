@@ -3,7 +3,7 @@
 
 This repository shares the annotated **MisinfoCorrected** dataset with the hate speech-based counter response strategies from the paper:
 
-## [**Integrating Argumentation and Hate-Speech-based Techniques for Countering Misinformationr**](https://aclanthology.org/2023.acl-long.466.pdf). 
+## [**Integrating Argumentation and Hate-Speech-based Techniques for Countering Misinformation**](https://aclanthology.org/2023.acl-long.466.pdf). 
 [**Sougata Saha**](https://sougata-ub.github.io), [**Rohini Srihari**](https://www.acsu.buffalo.edu/~rohini/) 
 
 Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics. Volume 1: Long Papers, pages 8373–8388. July 9-14, 2023 (ACL 2023)
